@@ -1,0 +1,1 @@
+go to directory of download where u saved that file then there write (python get-pip.py) then pip install panda then pip install numpy
